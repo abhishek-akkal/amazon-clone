@@ -257,7 +257,6 @@ ul p {
     padding-top: 5px;
     padding-bottom: 30px;
 }
- 
 @media (max-width: 768px) {
     .navbar{
         flex-direction: column;
